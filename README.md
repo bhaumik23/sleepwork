@@ -4,7 +4,7 @@ SleepWork
 Simple Java application that moves mouse in screen every 60 seconds
 This is useful if you want to keep the computer to awake or prevent to run screen saver.
 
-Mouse is movie 1 pixel right side from the position and again it will move 1 pixel to left side so user can continue his acitivity while this program is running in background.
+Mouse is moving 1 pixel right side from the position and again it will move 1 pixel to left side so user can continue his acitivity while this program is running in background.
 
 
 Build
