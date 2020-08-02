@@ -1,9 +1,3 @@
-# sleepwork
-This is useful if you want to keep the computer to awake or prevent to run screen saver. This program will move mouse every 60 seconds and you can stop it manually using stop button.
-
-# To run this application your system has jre8
-java -jar target/SleepWork.jar
-
 SleepWork
 ===========
 
